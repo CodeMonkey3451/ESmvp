@@ -15,5 +15,12 @@ Zielsetzungen:
 - Generierung von (Landschafts)mustern
 - Validierung der Muster
 
+- Maximierung der "Reichweite/Effektivität" der Flächen für Ökosystemdienstleistungen
+  --> zwei Optionen:
+  
+    --> minimale Fläche für fixen ÖSL Output
+    oder
+    --> fixe Fläche für maximalen ÖSL Output 
+
 
 Probleme:
